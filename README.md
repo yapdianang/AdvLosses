@@ -1,3 +1,5 @@
+Refer to Ton Goldstein's original repo. This is a work in progress.
+
 # Visualizing the Loss Landscape of Neural Nets
 
 
